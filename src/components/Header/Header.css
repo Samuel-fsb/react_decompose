@@ -1,4 +1,3 @@
-/* Put header styles here */
 .header {
   position: sticky;
   top: 0;
@@ -29,10 +28,5 @@
     display: flex;
     justify-content: space-between;
     text-align: left;
-  }
-
-  .article {
-    margin: 3.5em auto 0;
-    padding: 2em;
   }
 }
